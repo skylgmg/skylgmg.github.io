@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.sinuny.com/</loc>
+  <lastmod>2017-08-19T09:10:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/index.html</loc>
+  <lastmod>2017-08-19T09:10:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/portfolio.html</loc>
+  <lastmod>2017-08-19T09:10:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/blog.html</loc>
+  <lastmod>2017-08-19T09:10:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/about.html</loc>
+  <lastmod>2017-08-19T09:15:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/contact.html</loc>
+  <lastmod>2017-08-19T09:10:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sinuny.com/link.html</loc>
+  <lastmod>2017-08-19T09:10:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
